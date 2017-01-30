@@ -1,8 +1,7 @@
 /* SWEN20003 Object Oriented Software Development
  * RPG Game Engine - RPG Class
  * Author: Matt Giuca
- * Updated By: Aiden Hussein <hussein>
- * Student ID: 756647
+ * Updated By: Aiden H
  * */
 
 // Imports

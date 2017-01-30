@@ -1,7 +1,6 @@
 /* SWEN20003 Object Oriented Software Development
  * RPG Game Engine - Monster Class (Extends Unit)
- * Author: Aiden Hussein <hussein> 
- * Student ID: 756647
+ * Author: Aiden H
  */
 
 // Imports
