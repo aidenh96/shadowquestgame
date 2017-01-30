@@ -1,0 +1,12 @@
+Prince 467 679
+Elvira 738 549
+Garth 756 870
+Amulet 610 385
+Sword 682 385
+Tome 754 385
+Elixir 836 385
+GiantBat 1050 684
+Zombie 1350 632
+Bandit 1350 764
+Skeleton 1350 896
+Draelic  1331 1216
